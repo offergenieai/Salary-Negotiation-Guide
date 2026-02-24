@@ -93,4 +93,4 @@ This repository is maintained by [OfferGenie](https://offergenie.ai). Content is
 
 ---
 
-*Last updated: Feb 23, 2026
+*Last updated: Feb 24, 2026
